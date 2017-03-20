@@ -1,5 +1,4 @@
-# XiFan
-一个使用react native实现的韩剧影视APP。该项目是本人在学习react native 过程中写的，项目很小，但是麻雀虽小五脏俱全，
+该项目是本人在学习react native 过程中写的，项目很小，但是麻雀虽小五脏俱全，
 项目中运用了react native的很多知识，从中你可以学习到
 
 - View\Text\Image\ViewPager\Navigator\TouchableOpacity等基础控件的使用
@@ -11,8 +10,6 @@
 - react-native-sqlite的使用
 - react-native-scrollable-tab-view的使用
 - 复选框CheckBox的实现及CheckBox在ListView列表中的使用（全选功能）
-
-更多信息请访问 [我的博客](http://blog.csdn.net/it_talk),博客里有该项目的实战系列教程。
 
 ![效果图](https://github.com/helengray/XiFan/raw/master/xifan.gif)
 
